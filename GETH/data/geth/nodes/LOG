@@ -1,0 +1,6 @@
+=============== Apr 19, 2024 (MSK) ===============
+11:05:46.328421 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+11:05:46.333126 db@open opening
+11:05:46.334619 version@stat F·[] S·0B[] Sc·[]
+11:05:46.336646 db@janitor F·2 G·0
+11:05:46.336646 db@open done T·3.5202ms
